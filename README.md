@@ -3,11 +3,16 @@
 
 - 🌱 I’m currently learning **Dsa, mern-stack.**
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
-
 - 📫 How to reach me **lakshyayadav7672@gmail.com**
 
 - 📄 Know about my experiences [example.com](example.com)
+
+
+🎯About Me 
+
+✨I’m a BBA student with a passion for IT and web development. 
+  Skilled in HTML, CSS, JavaScript, Git/GitHub, and React,
+  currently learning DSA and backend to become a full-stack developer.”
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
