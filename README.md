@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **lakshyayadav7672@gmail.com**
 
-- 📄 Know about my experiences [example.com](example.com)
-
 
 🎯About Me 
 
