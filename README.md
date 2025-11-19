@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshya yadav</h1>
 <h3 align="center">A aspiring Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Dsa, mern-stack.**
+- 🌱 I’m currently learning **Dsa**
 
 - 📫 How to reach me **lakshyayadav7672@gmail.com**
 
@@ -9,8 +9,8 @@
 🎯About Me 
 
 ✨I’m a BBA student with a passion for IT and web development. 
-  Skilled in HTML, CSS, JavaScript, Git/GitHub, and React,
-  currently learning DSA and backend to become a full-stack developer.”
+  Skilled in HTML, CSS, JavaScript,MongoDB, Express.js, React, Node.js,
+  currently learning DSA and working on a project .”
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
